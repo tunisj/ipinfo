@@ -1,4 +1,4 @@
-<rawtext>       
+<pre>       
     .__       .__        _____       
     |__|_____ |__| _____/ ____\____  
     |  \____ \|  |/    \   __\/  _ \ 
@@ -6,7 +6,7 @@
     |__|   __/|__|___|  /__|  \____/ 
     |__|           \/             
     by@jtunis
-</rawtext><br>
+</pre><br>
 _A simple script to interact with ipinfo.io api_
 
 
