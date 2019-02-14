@@ -4,7 +4,7 @@
     |  \____ \|  |/    \   __\/  _ \ 
     |  |  |_> >  |   |  \  | (  <_> )
     |__|   __/|__|___|  /__|  \____/ 
-    |__|           \/             
+       |__|           \/             
     by@jtunis
 </pre><br>
 _A simple script to interact with ipinfo.io api_
