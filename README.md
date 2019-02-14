@@ -5,8 +5,8 @@
     |  |  |_> >  |   |  \  | (  <_> )
     |__|   __/|__|___|  /__|  \____/ 
        |__|           \/             
-    by@jtunis
-</pre><br>
+    by@tunisj
+</pre>
 _A simple script to interact with ipinfo.io api_
 
 
