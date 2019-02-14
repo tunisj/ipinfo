@@ -19,3 +19,10 @@ pip install ipinfo
 ```
 >>> python ./getipinfo.py
 ```
+#### Usage  
+Short Form    | Long Form     | Description
+------------- | ------------- |-------------
+-i            | --input       | List of IP Addresses to use
+-o            | --output      | Save the results to output file
+-h            | --help        | Show the help message and exit
+-v            | --version     | Show program's version number and exit
